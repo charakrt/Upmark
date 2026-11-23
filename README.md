@@ -47,8 +47,8 @@ The program simulates the management system of the Balkan Olympiad in Informatic
 You need the [Dart SDK](https://dart.dev/get-dart) installed.
 
 ```bash
-git clone https://github.com/charakrt/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/charakrt/Upmark.git
+cd Upmark
 dart main.dart
 ```
 
